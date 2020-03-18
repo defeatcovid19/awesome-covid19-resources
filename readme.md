@@ -26,14 +26,15 @@ Collection of case datasets and models for analyzing the dynamics of the outbrea
 #### Time series by geographic regions
 
 <table>
-<tr><th>Publisher</th><th>Scope</th><th>Granularity</th><th>Fields*</th><th>Format</th><th>Dataset</th></tr>
-<tr><td colspan="6"><i>International level</i></td></tr>
-<tr><td>European Centre for Disease Prevention and Control</td><td>worldwide</td><td>countries</td><td>1, 3</td><td>xls</td><td><a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">link</a></td></tr>
-<tr><td colspan="6"><i>Country level</i></td></tr>
-<tr><td>Protezione Civile</td><td>Italy</td><td>national, regional, provinces</td><td>national, regional: 1, 2, 3, 4, 5, 6, 7; provinces: 1</td><td>csv, json</td><td><a href="https://github.com/pcm-dpc/COVID-19">link</a></td></tr>
+<tr><th>Publisher</th><th>Scope</th><th>Granularity</th><th>Updated</th><th>Fields<sup>1</sup></th><th>Format</th><th>Dataset</th></tr>
+<tr><td colspan="7"><i>International level</i></td></tr>
+<tr><td><a href="https://coronavirus.jhu.edu">Johns Hopkins CSSE</a></td><td>worldwide</td><td>countries<sup>2</sup></td><td>daily</td><td>1, 2, 3</td><td>csv</td><td><a href="https://github.com/CSSEGISandData/COVID-19">link</a></td></tr>
+<tr><td><a href="https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases">European Centre for Disease Prevention and Control</a></td><td>worldwide</td><td>countries</td><td>daily</td><td>1, 3</td><td>xls</td><td><a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">link</a></td></tr>
+<tr><td colspan="7"><i>Country level</i></td></tr>
+<tr><td><a href="http://www.protezionecivile.it/risk-activities/health-risk/emergencies/coronavirus">Protezione Civile</a></td><td>Italy</td><td><b>n</b>ational, <b>r</b>egional, <b>p</b>rovinces</td><td>daily</td><td>n, r: 1, 2, 3, 4, 5, 6, 7; p: 1</td><td>csv, json</td><td><a href="https://github.com/pcm-dpc/COVID-19">link</a></td></tr>
 </table>
 
-\* Fields explanation:
+[1] Fields explanation:
 1. Positive cases
 2. Recovered cases
 3. Deaths
@@ -41,6 +42,8 @@ Collection of case datasets and models for analyzing the dynamics of the outbrea
 5. Patients in intensive care unit
 6. Cases in home confinement
 7. COVID-19 tests made
+
+[2] provinces for China, US, Canada, Australia
 
 #### Models
 
