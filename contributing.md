@@ -8,9 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Please make sure the links in your pull requests are working and point to authentic, if possible official sources.
 
 Thank you for your suggestions!
 
