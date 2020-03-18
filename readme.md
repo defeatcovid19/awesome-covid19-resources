@@ -25,12 +25,13 @@ Collection of case datasets and models for analyzing the dynamics of the outbrea
 
 #### Time series by geographic regions
 
-| Publisher | Scope | Granularity | Data Fields* | Format | Dataset |
-|-----------|-------|-------------|-------------|--------|---------|
-| *International level*  <td colspan=6> |
-| European Centre for Disease Prevention and Control | worldwide | countries | 1, 3 | xls | [link](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) |
-| *Country level*  <td colspan=6> |
-| Protezione Civile | Italy | national, regional, provinces | national, regional: 1, 2, 3, 4, 5, 6, 7; provinces: 1|  csv, json | [link](https://github.com/pcm-dpc/COVID-19) |
+<table>
+<tr><th>Publisher</th><th>Scope</th><th>Granularity</th><th>Fields*</th><th>Format</th><th>Dataset</th></tr>
+<tr><td colspan="6"><i>International level</i></td></tr>
+<tr><td>European Centre for Disease Prevention and Control</td><td>worldwide</td><td>countries</td><td>1, 3</td><td>xls</td><td><a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">link</a></td></tr>
+<tr><td colspan="6"><i>Country level</i></td></tr>
+<tr><td>Protezione Civile</td><td>Italy</td><td>national, regional, provinces</td><td>national, regional: 1, 2, 3, 4, 5, 6, 7; provinces: 1</td><td>csv, json</td><td><a href="https://github.com/pcm-dpc/COVID-19">link</a></td></tr>
+</table>
 
 \* Fields explanation:
 1. Positive cases
