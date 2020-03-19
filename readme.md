@@ -8,8 +8,8 @@
 - [Datasets and models](#datasets-and-models)
   - [Medical Imaging](#medical-imaging)
   - [Outbreak dynamics](#outbreak-dynamics)
-    - [Cases datasets](#cases-datasets)
-    - [Governmental pages](#governmental-pages)
+    - [Case datasets](#case-datasets)
+    - [Government pages](#government-pages)
     - [Dashboards](#dashboards)
     - [Statistical models](#statistical-models)
 - [Contribute](#contribute)
@@ -31,7 +31,7 @@ Datasets and machine learning models related to COVID-19.
 
 Collection of case datasets for analyzing the dynamics of the outbreak.
 
-#### Cases datasets
+#### Case datasets
 
 <table>
 <tr><th>Publisher</th><th>Scope</th><th>Granularity</th><th>Updated</th><th>Fields<sup>1</sup></th><th>Format</th><th>Dataset</th></tr>
