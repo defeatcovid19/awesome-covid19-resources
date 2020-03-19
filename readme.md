@@ -24,7 +24,7 @@ Datasets and machine learning models related to COVID-19.
 
 ### Medical Imaging
 
-- TBD
+- https://github.com/ieee8023/covid-chestxray-dataset
 
 
 ### Outbreak dynamics
