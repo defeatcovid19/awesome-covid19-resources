@@ -24,7 +24,8 @@ Datasets and machine learning models related to COVID-19.
 
 ### Medical Imaging
 
-- TBD
+- Kaggle Dataset: Pneumonia
+  https://www.kaggle.com/search?q=pneumonia+in%3Adatasets
 
 
 ### Outbreak dynamics
