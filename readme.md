@@ -34,7 +34,7 @@ Datasets and machine learning models related to COVID-19.
 A collection of medical imaging (chest X-ray or CT) datasets and other resources.
 
 - [Coronavirus disease 2019 (COVID-19)](https://radiopaedia.org/articles/coronavirus-disease-2019-covid-19-1) article on [Radiopaedia](https://radiopaedia.org)
-
+- [Italian RX scans of COVID-19 cases](https://www.sirm.org/category/senza-categoria/covid-19/)
 #### Imaging datasets
 
 | Name | Publisher | Type | Images | Classes |
