@@ -39,8 +39,9 @@ A collection of medical imaging (chest X-ray or CT) datasets and other resources
 
 | Name | Publisher | Type | Images | Classes |
 |------|-----------|:----:|-------:|---------|
-| [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | X-Ray | 5863 | Pneumonia / Normal |
-| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | X-Ray / CT | 89 | COVID-19, SARS, Viral Pneumonia, etc. |
+| [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | Chest x-ray | 5,863 | Pneumonia / Normal |
+| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 89 | COVID-19, SARS, Viral Pneumonia, etc. |
+| [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration
 
 
 
@@ -49,6 +50,7 @@ A collection of medical imaging (chest X-ray or CT) datasets and other resources
 Articles, blog posts describing a proposed model:
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
   - [COVID-10 detection in X-ray images using deep learning and Grad-CAM visualisation](https://www.linkedin.com/posts/sohaiblaraba_covid19-covid19-interpretability-activity-6645675878485409795-Y6gM/) - Derived work on the interpretability of the results.
+  - [Deep Learning for Medical Imaging: COVID-19 Detection](https://blogs.mathworks.com/deep-learning/2020/03/18/deep-learning-for-medical-imaging-covid-19-detection/) - Ported the above model to MATLAB.
 - [Using Deep Learning to detect Pneumonia caused by NCOV-19 from X-Ray Images](https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd)
 
 
