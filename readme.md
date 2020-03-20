@@ -91,15 +91,23 @@ Collection of case datasets for analyzing the dynamics of the outbreak.
 Official pages for monitoring the national outbreaks with reported cases. English version is provided, if found.
 
 *Americas*
+- [Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+- [Mexico](https://coronavirus.gob.mx/noticias/)
 - [United States](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
 
 *Asia*
+- [Isreal](https://www.health.gov.il/English/Topics/Diseases/corona/Pages/press-release.aspx)
 - [Singapore](https://www.gov.sg/article/covid-19-cases-in-singapore)
+
+*Australia and Oceania*
+- [Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers)
+- [New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases)
 
 *Europe*
 - [Austria](www.sozialministerium.at/coronavirus) (in German)
 - [Belgium](https://www.info-coronavirus.be/en/news/)
 - [Denmark](https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus/covid-19-i-danmark-epidemiologisk-overvaagningsrapport) (in Danish)
+- [Estonia](https://www.terviseamet.ee/en)
 - [Finland](https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates)
 - [France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde) (in French)
 - [Germany](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html) (in German, see [this page](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html) for situation reports in English)
@@ -126,6 +134,7 @@ Dashboards visualizing the dynamics of the outbreak in different geographic area
 
 *Country level*
 - [Canada](https://art-bd.shinyapps.io/covid19canada/) - Case level dashboard about the COVID-19 outbreak in Canada, curated by [COVID-19 Canada Open Data Working Group](https://github.com/ishaberry/Covid19Canada)
+- [Isreal](https://imoh.maps.arcgis.com/apps/webappviewer/index.html?id=20ded58639ff4d47a2e2e36af464c36e&locale=he&/) - Government dashboard for monitoring the COVID-19 outbreak in Israel (in Hebrew)
 - [Italy](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) - Official dashboard for monitoring the COVID-19 outbreak in Italy, provided by [Civil Protection](http://www.protezionecivile.it) of Italy
 - [Portugal](https://esriportugal.maps.arcgis.com/apps/opsdashboard/index.html#/acf023da9a0b4f9dbb2332c13f635829) - Official dashboard for monitoring the COVID-19 outbreak in Portugal, provided by the [Public Health Department](https://www.dgs.pt) of Portugal
 - [Singapore](https://co.vid19.sg/dashboard) - Unoffical but extremly extensive dashboard for monitoring the COVID-19 outbreak in Singapore at case-level, provided by [@zp_uca](https://twitter.com/zp_uca)
