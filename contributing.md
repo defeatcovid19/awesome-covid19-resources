@@ -16,7 +16,7 @@ Ensure your pull request adheres to the following guidelines:
   - **Scientific articles** directly helping to create such models.
   - High quality **epidemic tracking dashboards** built on official, daily updated epidemic data.
   - Official **governmental pages** for tracing the local epidemic.
-  - If your contribution does not fit in the above categories but you stil feel it contains a valuable resource for the #defeatcovid19 community, open an [issue](./issues) where we can discuss it.
+  - If your contribution does not fit in the above categories but you stil feel it contains a valuable resource for the #defeatcovid19 community, open an [issue](https://github.com/defeatcovid19/awesome-covid19-resources/issues) where we can discuss it.
 - By submitting a PR you waive all copyright and related or neighboring rights to your contribution.
 
 Thank you for your suggestions!

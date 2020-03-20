@@ -19,7 +19,6 @@
   - [Epidemic papers](#epidemic-papers)
   - [Clinical record analysis](#clinical-record-analysis)
   - [Computational drug research](#computational-drug-research)
-- [Other COVID-19 resource collections](#other-covid-19-resource-collections)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -172,10 +171,6 @@ A collection of scientific papers related to COVID-19 relevant from the data sci
 ### Computational drug research
 
 - [Repurposing Therapeutics for COVID-19](https://chemrxiv.org/articles/Repurposing_Therapeutics_for_the_Wuhan_Coronavirus_nCov-2019_Supercomputer-Based_Docking_to_the_Viral_S_Protein_and_Human_ACE2_Interface/11871402/4): Supercomputer-Based Docking to the SARS-CoV-2 Viral Spike Protein and Viral Spike Protein-Human ACE2 Interface
-
-## Selected social network resources
-
-- COVID-19 related [fast.ai discussion forum](https://forums.fast.ai/t/can-we-do-something-as-a-community-to-fight-covid-19-aka-coronavirus/)
 
 
 
