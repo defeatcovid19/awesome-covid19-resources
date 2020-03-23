@@ -31,6 +31,8 @@ Datasets and machine learning models related to COVID-19.
 
 ### Medical imaging
 
+- Kaggle Dataset: Pneumonia
+  https://www.kaggle.com/search?q=pneumonia+in%3Adatasets
 A collection of medical imaging (chest X-ray or CT) datasets and other resources.
 
 - [Coronavirus disease 2019 (COVID-19)](https://radiopaedia.org/articles/coronavirus-disease-2019-covid-19-1) article on [Radiopaedia](https://radiopaedia.org)
@@ -41,9 +43,8 @@ A collection of medical imaging (chest X-ray or CT) datasets and other resources
 |------|-----------|:----:|-------:|---------|
 | [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | Chest x-ray | 5,863 | Pneumonia / Normal |
 | [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 89 | COVID-19, SARS, Viral Pneumonia, etc. |
-| [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration
-
-
+| [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration |
+| [COVID19 High quality images](https://www.kaggle.com/theroyakash/covid19) | [theroyakash](https://www.kaggle.com/theroyakash) | Chest x-ray | 338 | COVID-19, Viral Pneumonia / Normal
 
 #### Medical imaging models
 
