@@ -31,9 +31,7 @@ Datasets and machine learning models related to COVID-19.
 
 ### Medical imaging
 
-- Kaggle Dataset: Pneumonia
-  https://www.kaggle.com/search?q=pneumonia+in%3Adatasets
-A collection of medical imaging (chest X-ray or CT) datasets and other resources.
+- [Pneumonia related Kaggle Datasets](https://www.kaggle.com/search?q=pneumonia+in%3Adatasets) - A collection of medical imaging (chest X-ray or CT) datasets and other resources.
 
 - [Coronavirus disease 2019 (COVID-19)](https://radiopaedia.org/articles/coronavirus-disease-2019-covid-19-1) article on [Radiopaedia](https://radiopaedia.org)
 - [Italian RX scans of COVID-19 cases](https://www.sirm.org/category/senza-categoria/covid-19/)
