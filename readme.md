@@ -70,7 +70,7 @@ Collection of case datasets for analyzing the dynamics of the outbreak.
 
 <tr><td colspan="7"><i>Country level</i></td></tr>
 <tr><td>Canada</td><td><a href="https://github.com/ishaberry/Covid19Canada">COVID-19 Canada Open Data Working Group</a></td><td>provinces</td><td>daily</td><td>1, 2, 3, 7</td><td>Google Sheets</td><td><a href="https://github.com/ishaberry/Covid19Canada">link</a></td></tr>
-<tr><td>Italy</td><td><a href="http://www.protezionecivile.it/risk-activities/health-risk/emergencies/coronavirus">Protezione Civile</a></td><td><b>n</b>ational, <b>r</b>egional, <b>p</b>rovinces</td><td>daily</td><td><b>n</b>, <b>r</b>: 1, 2, 3, 4, 5, 6, 7; <b>p</b>: 1</td><td>csv, json</td><td><a href="https://github.com/pcm-dpc/COVID-19">link</a></td></tr>
+<tr><td>Italy</td><td><a href="http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus">Protezione Civile</a></td><td><b>n</b>ational, <b>r</b>egional, <b>p</b>rovinces</td><td>daily</td><td><b>n</b>, <b>r</b>: 1, 2, 3, 4, 5, 6, 7; <b>p</b>: 1</td><td>csv, json</td><td><a href="https://github.com/pcm-dpc/COVID-19">link</a></td></tr>
 <tr><td>United States</td><td><a href="https://covidtracking.com/about-team/">The COVID Tracking Project</a></td><td>states</td><td>daily</td><td>1, 3, 7</td><td>Google Sheets, csv, json, GraphQL</td><td><a href="https://covidtracking.com">link</a></td></tr>
 </table>
 
@@ -104,7 +104,7 @@ Official pages for monitoring the national outbreaks with reported cases. Englis
 - [New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases)
 
 *Europe*
-- [Austria](www.sozialministerium.at/coronavirus) (in German)
+- [Austria](https://www.sozialministerium.at/coronavirus) (in German)
 - [Belgium](https://www.info-coronavirus.be/en/news/)
 - [Denmark](https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus/covid-19-i-danmark-epidemiologisk-overvaagningsrapport) (in Danish)
 - [Estonia](https://www.terviseamet.ee/en)
@@ -193,6 +193,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Neosperience and other contributors have waived all copyright and related or neighboring rights to this work.
