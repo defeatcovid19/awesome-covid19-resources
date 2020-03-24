@@ -40,13 +40,14 @@ Datasets and machine learning models related to COVID-19.
 | Name | Publisher | Type | Images | Classes |
 |------|-----------|:----:|-------:|---------|
 | [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | Chest x-ray | 5,863 | Pneumonia / Normal |
-| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 89 | COVID-19, SARS, Viral Pneumonia, etc. |
+| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 158 | COVID-19, SARS, Viral Pneumonia, etc. |
 | [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration |
 | [COVID19 High quality images](https://www.kaggle.com/theroyakash/covid19) | [theroyakash](https://www.kaggle.com/theroyakash) | Chest x-ray | 338 | COVID-19, Viral Pneumonia / Normal
 
 #### Medical imaging models
 
 Articles, blog posts describing a proposed model:
+- [COVID-19 Detection Neural Network (COVNet)](https://github.com/bkong999/COVNet)
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
   - [COVID-10 detection in X-ray images using deep learning and Grad-CAM visualisation](https://www.linkedin.com/posts/sohaiblaraba_covid19-covid19-interpretability-activity-6645675878485409795-Y6gM/) - Derived work on the interpretability of the results.
   - [Deep Learning for Medical Imaging: COVID-19 Detection](https://blogs.mathworks.com/deep-learning/2020/03/18/deep-learning-for-medical-imaging-covid-19-detection/) - Ported the above model to MATLAB.
@@ -150,6 +151,7 @@ A collection of scientific papers related to COVID-19 relevant from the data sci
 ### Medical imaging papers
 
 *Computer Tomography (CT) images*
+- [Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
 - [Lung Infection Quantification of COVID-19 in CT Images with Deep Learning](https://arxiv.org/abs/2003.04655v2)
 - [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic](https://arxiv.org/abs/2003.05037v1): Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis
 - [Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia](https://arxiv.org/ftp/arxiv/papers/2002/2002.09334.pdf)
