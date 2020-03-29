@@ -116,6 +116,7 @@ Official pages for monitoring the national outbreaks with reported cases. Englis
 - [Italy](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?id=5351&area=nuovoCoronavirus&menu=vuoto) (in Italian)
 - [Netherlands](https://www.rivm.nl/en/news/current-information-about-novel-coronavirus-covid-19)
 - [Norway](https://www.fhi.no/en/id/infectious-diseases/coronavirus/dags--og-ukerapporter/daily-reports-COVID19/)
+- [Poland](https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2) (in Polish)
 - [Portugal](https://covid19.min-saude.pt/relatorio-de-situacao/) (in Portuguese)
 - [Spain](https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) (in Spanish)
 - [Sweden](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/) (in Swedish)
