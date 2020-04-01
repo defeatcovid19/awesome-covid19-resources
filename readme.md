@@ -35,6 +35,8 @@ Datasets and machine learning models related to COVID-19.
 
 - [Coronavirus disease 2019 (COVID-19)](https://radiopaedia.org/articles/coronavirus-disease-2019-covid-19-1) article on [Radiopaedia](https://radiopaedia.org)
 - [Italian RX scans of COVID-19 cases](https://www.sirm.org/category/senza-categoria/covid-19/)
+
+
 #### Imaging datasets
 
 | Name | Publisher | Type | Images | Classes |
@@ -43,6 +45,9 @@ Datasets and machine learning models related to COVID-19.
 | [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 158 | COVID-19, SARS, Viral Pneumonia, etc. |
 | [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration |
 | [COVID19 High quality images](https://www.kaggle.com/theroyakash/covid19) | [theroyakash](https://www.kaggle.com/theroyakash) | Chest x-ray | 338 | COVID-19, Viral Pneumonia / Normal
+| [BIMCV-COVID19](http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/) | [Medical Imaging Bank of the Valencia Region](http://bimcv.cipf.es) | Chest x-ray | 160,000+ | 174 labels (no COVID-19 yet) |
+| [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) | [Radiological Society of North America](https://www.rsna.org) | chest x-ray | ? | pneumonia object detection bboxes |
+
 
 #### Medical imaging models
 
@@ -52,7 +57,8 @@ Articles, blog posts describing a proposed model:
   - [COVID-10 detection in X-ray images using deep learning and Grad-CAM visualisation](https://www.linkedin.com/posts/sohaiblaraba_covid19-covid19-interpretability-activity-6645675878485409795-Y6gM/) - Derived work on the interpretability of the results.
   - [Deep Learning for Medical Imaging: COVID-19 Detection](https://blogs.mathworks.com/deep-learning/2020/03/18/deep-learning-for-medical-imaging-covid-19-detection/) - Ported the above model to MATLAB.
 - [Using Deep Learning to detect Pneumonia caused by NCOV-19 from X-Ray Images](https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd)
-
+- [BIMCV-COVID-19 model](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
+- [COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
 
 
 ### Epidemic data and models
@@ -174,6 +180,14 @@ A collection of scientific papers related to COVID-19 relevant from the data sci
 - [A Poisson Autoregressive Model to Understand COVID-19 Contagion Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551626)
 - [Relationship between the ABO Blood Group and the COVID-19 Susceptibility](https://www.medrxiv.org/content/10.1101/2020.03.11.20031096v1)
 
+#### Estimating the proportion of asymptomatic cases and transmissibility
+
+- [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
+- [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180)
+- [Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1)
+- [Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)](https://www.ijidonline.com/article/S1201-9712(20)30139-9/pdf)
+- [Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster](https://doi.org/10.1101/2020.03.05.20030502)
+- [SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/10.1056/NEJMc2001737)
 
 ### Clinical record analysis
 
