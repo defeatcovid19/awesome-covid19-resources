@@ -153,6 +153,7 @@ Dashboards visualizing the dynamics of the outbreak in different geographic area
 - [COVID-19 Dashboards](https://covid19dashboards.com) - Extensive collection of dashboards, diagrams and other visualizations as well as statistical models of the COVID-19 outbreak.
 - [COVID-19 Health System Capacity](https://github.com/daveluo/covid19-healthsystemcapacity) - Open geospatial work to support healthcare systems' capacity in the United States.
 - [Epidemic calculator](http://gabgoh.github.io/COVID/index.html) - An interactive visual calculator demonstrating the relations between different epidemic variables.
+- [COVID-19 Scenarios](https://neherlab.org/covid19/) - A planning tool for COVID-19 outbreaks in communities across the world.
 
 
 ## Selected scientific articles
