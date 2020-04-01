@@ -153,6 +153,7 @@ Dashboards visualizing the dynamics of the outbreak in different geographic area
 - [COVID-19 Dashboards](https://covid19dashboards.com) - Extensive collection of dashboards, diagrams and other visualizations as well as statistical models of the COVID-19 outbreak.
 - [COVID-19 Health System Capacity](https://github.com/daveluo/covid19-healthsystemcapacity) - Open geospatial work to support healthcare systems' capacity in the United States.
 - [Epidemic calculator](http://gabgoh.github.io/COVID/index.html) - An interactive visual calculator demonstrating the relations between different epidemic variables.
+- [COVID-19 Scenarios](https://neherlab.org/covid19/) - A planning tool for COVID-19 outbreaks in communities across the world.
 
 
 ## Selected scientific articles
@@ -185,7 +186,7 @@ A collection of scientific papers related to COVID-19 relevant from the data sci
 - [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 - [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180)
 - [Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1)
-- [Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)](https://www.ijidonline.com/article/S1201-9712(20)30139-9/pdf)
+- [Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)](https://www.ijidonline.com/article/S1201-9712%2820%2930139-9/pdf)
 - [Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster](https://doi.org/10.1101/2020.03.05.20030502)
 - [SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/10.1056/NEJMc2001737)
 
