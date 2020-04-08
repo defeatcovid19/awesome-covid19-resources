@@ -39,14 +39,21 @@ Datasets and machine learning models related to COVID-19.
 
 #### Imaging datasets
 
-| Name | Publisher | Type | Images | Classes |
-|------|-----------|:----:|-------:|---------|
-| [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) (children) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | Chest x-ray | 5,863 | Pneumonia / Normal |
-| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 158 | COVID-19, SARS, Viral Pneumonia, etc. |
-| [NIH Clinical Center chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC) | [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | Chest x-ray | 100,000+ | 14 categories including Pneumonia and Infiltration |
-| [COVID19 High quality images](https://www.kaggle.com/theroyakash/covid19) | [theroyakash](https://www.kaggle.com/theroyakash) | Chest x-ray | 338 | COVID-19, Viral Pneumonia / Normal
-| [BIMCV-COVID19](http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/) | [Medical Imaging Bank of the Valencia Region](http://bimcv.cipf.es) | Chest x-ray | 160,000+ | 174 labels (no COVID-19 yet) |
-| [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) | [Radiological Society of North America](https://www.rsna.org) | chest x-ray | ? | pneumonia object detection bboxes |
+This section collects COVID-19 and pneumonia related chest x-ray datasets.
+
+[TorchXrayVision](https://github.com/mlmed/torchxrayvision) is a python library of chest X-ray datasets and models providing a standardized interface for some of the datasets listed below.
+
+| Name | Publisher | Type | Images | Classes | Download links |
+|------|-----------|:----:|-------:|---------|----------------|
+| [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset) | [Joseph Paul Cohen](https://josephpcohen.com/) | Chest x-ray / CT | 158 (updating)| COVID-19, SARS, Viral Pneumonia, etc. | [http](https://github.com/ieee8023/covid-chestxray-dataset/archive/master.zip) |
+| [NIH Clinical Center chest x-ray datasets](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) | [National Institutes of Health](https://www.nih.gov) | Chest x-ray | 100,000+ | 14 categories including pneumonia | [http](https://nihcc.app.box.com/v/ChestXray-NIHCC); torrent: [full](https://academictorrents.com/details/557481faacd824c83fbf57dcf7b6da9383b3235a), [224x224](https://academictorrents.com/details/e615d3aebce373f1dc8bd9d11064da55bdadede0) |
+| [BIMCV-COVID19](http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/), [BIMCV-PadChest](http://bimcv.cipf.es/bimcv-projects/padchest/) | [Medical Imaging Bank of the Valencia Region](http://bimcv.cipf.es) | Chest x-ray | 160,000+ | 174 labels (no COVID-19 yet) | [http](http://ceib.bioinfo.cipf.es/covid19/padchest_neumonia.zip); torrent: [full](https://academictorrents.com/details/dec12db21d57e158f78621f06dcbe78248d14850), [224x224](https://academictorrents.com/details/e0aeda79626589f31e8bf016660da801f5add88e) |
+| [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) | [Radiological Society of North America](https://www.rsna.org) | chest x-ray | 26,684 | pneumonia object detection bboxes | [kaggle](https://www.kaggle.com/c/10338/download-all) (DICOM), [torrent](https://academictorrents.com/details/95588a735c9ae4d123f3ca408e56570409bcf2a9) (jpeg) |
+| [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) | [Stanford Machine Learning Group](https://stanfordmlgroup.github.io) | chest x-ray | 224,316 | 14 categories including pneumonia | [http](https://stanfordmlgroup.github.io/competitions/chexpert/) (registration needed) |
+| [MIMIC-CXR-JPG](https://mimic-cxr.mit.edu) | [Johnson et al. (2019)](https://doi.org/10.13026/C2JT1Q) | chest x-ray | 300,000+ | 14 categories including pneumonia | [http](https://physionet.org/content/mimic-cxr/2.0.0/) (credentialing needed) |
+| [Open-i](https://openi.nlm.nih.gov/faq)| [National Library of Medicine](https://www.nlm.nih.gov) | chest x-ray | 7,470 | | http: [png](https://openi.nlm.nih.gov/imgs/collections/NLMCXR_png.tgz), [DICOM](https://openi.nlm.nih.gov/imgs/collections/NLMCXR_dcm.tgz),  [labels](https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz) |
+| [COVID19 High quality images](https://www.kaggle.com/theroyakash/covid19) | [theroyakash](https://www.kaggle.com/theroyakash) | Chest x-ray | 338 | COVID-19, Viral Pneumonia / Normal | [kaggle](https://www.kaggle.com/theroyakash/covid19/download) | 
+| [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) | [Paul Mooney](https://www.kaggle.com/paultimothymooney) | Pediatric chest x-ray | 5,863 | Pneumonia / Normal | [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download) |
 
 
 #### Medical imaging models
@@ -57,6 +64,7 @@ Articles, blog posts describing a proposed model:
   - [COVID-10 detection in X-ray images using deep learning and Grad-CAM visualisation](https://www.linkedin.com/posts/sohaiblaraba_covid19-covid19-interpretability-activity-6645675878485409795-Y6gM/) - Derived work on the interpretability of the results.
   - [Deep Learning for Medical Imaging: COVID-19 Detection](https://blogs.mathworks.com/deep-learning/2020/03/18/deep-learning-for-medical-imaging-covid-19-detection/) - Ported the above model to MATLAB.
 - [Using Deep Learning to detect Pneumonia caused by NCOV-19 from X-Ray Images](https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd)
+  - [COVID-19-Scanner](https://github.com/ajsanjoaquin/COVID-19-Scanner) model from the article
 - [BIMCV-COVID-19 model](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
 - [COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
 
