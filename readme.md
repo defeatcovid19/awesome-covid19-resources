@@ -106,6 +106,7 @@ Collection of case datasets for analyzing the dynamics of the outbreak.
 Official pages for monitoring the national outbreaks with reported cases. English version is provided, if found.
 
 *Americas*
+- [Brazil](https://covid.saude.gov.br/)
 - [Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Mexico](https://coronavirus.gob.mx/noticias/)
 - [United States](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
